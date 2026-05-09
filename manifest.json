@@ -1,5 +1,11 @@
 {
-  "version": "2026.05.09.1036",
+  "version": "2026.05.09.1053",
   "base": "Gamedata",
-  "files": []
+  "files": [
+    {
+      "path": "maps/compaign/测试",
+      "md5": "d8e8fca2dc0f896fd7cb4cb0031ba249",
+      "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/测试"
+    }
+  ]
 }
