@@ -1,11 +1,16 @@
 {
-  "version": "2026.05.10.0752",
+  "version": "2026.05.10.0753",
   "base": "Gamedata",
   "files": [
     {
       "path": "maps/compaign/测试",
       "md5": "d8e8fca2dc0f896fd7cb4cb0031ba249",
       "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/测试"
+    },
+    {
+      "path": "maps/compaign/Level_05.map",
+      "md5": "f40ca54fb7684e6605025d355df58b98",
+      "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/Level_05.map"
     }
   ]
 }
