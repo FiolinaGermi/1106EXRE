@@ -1,16 +1,31 @@
 {
-  "version": "2026.05.11.1502",
+  "version": "2026.05.11.1508",
   "base": "Gamedata",
   "files": [
+    {
+      "path": "maps/compaign/amb05.ogg",
+      "md5": "ad7c6257e0eb26fd99de4554f10b381a",
+      "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/amb05.ogg"
+    },
     {
       "path": "maps/compaign/测试",
       "md5": "d8e8fca2dc0f896fd7cb4cb0031ba249",
       "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/测试"
     },
     {
+      "path": "maps/compaign/amb06.ogg",
+      "md5": "4e99f9519c14e8f974fdc36660019261",
+      "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/amb06.ogg"
+    },
+    {
       "path": "maps/compaign/amb_night.ogg",
       "md5": "5362d6b2152ac28e61978014ec9d6ce1",
       "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/amb_night.ogg"
+    },
+    {
+      "path": "maps/compaign/entering.ogg",
+      "md5": "566f7e531add49a92905c000d0451373",
+      "url": "https://raw.githubusercontent.com/FiolinaGermi/1106EXRE/new/main/Gamedata/maps/compaign/entering.ogg"
     },
     {
       "path": "maps/compaign/amb02.ogg",
